@@ -1,0 +1,7 @@
+1. What is backend development?
+    - Backend development focuses on the server-side logic of the web application or application, it deals with the business logic, database interactions and security of the application.
+2. Give 2 examples of backend frameworks.
+    - Laravel
+    - Express
+3. What is an API?
+    - it is a set of rules or protocols that enables communication between multiple software systems, for example some weather application gets thier data from another systems through API.
